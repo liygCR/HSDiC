@@ -12,4 +12,4 @@ we explore sparsity and homogeneity of regression coefficients incorporating pri
 
 
 ## Citation
-Yaguang Li and Baisuo Jin (2018). Pairwise Fusion Approach Incorporating Prior Constraint Information. *working paper*.
+> Yaguang Li and Baisuo Jin (2018). Pairwise Fusion Approach Incorporating Prior Constraint Information. *working paper*.
