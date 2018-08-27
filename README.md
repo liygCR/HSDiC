@@ -1,8 +1,11 @@
 # HSDiC
-R package for Homogeneity and Sparsity Detection Incorporating Prior Constraint Information
+'HSDiC' is an 'R' package for Homogeneity and Sparsity Detection Incorporating Prior Constraint Information.
 
 ## Installation
+```r
+# install.packages("devtools")
 devtools::install_github("liygCR/HSDiC/HSDiC")
+```
 
 ## Description
 we explore sparsity and homogeneity of regression coefficients incorporating prior constraint information. A general pairwise fusion approach is proposed to deal with the sparsity and homogeneity detection when combining prior convex constraints. We develop an modified alternating direction method of multipliers algorithm (ADMM) to obtain the estimators. 
