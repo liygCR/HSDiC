@@ -1,5 +1,5 @@
 # HSDiC
-'HSDiC' is an 'R' package for Homogeneity and Sparsity Detection Incorporating Prior Constraint Information.
+`HSDiC` is an `R` package for Homogeneity and Sparsity Detection Incorporating Prior Constraint Information.
 
 ## Installation
 ```r
